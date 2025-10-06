@@ -79,6 +79,7 @@ namespace cards
         public override void Play()
         {
             Console.WriteLine($"Использован предмет '{Name}'! Бонус: {Bonus}");
+            //привет
         }
     }
 
